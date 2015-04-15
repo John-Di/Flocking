@@ -1,0 +1,20 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="C:\Users\John\Desktop\Comp476\Assets\Code\Traps\Trampoline.cs">
+    <Files>
+      <File FileName="C:\Users\John\Desktop\Comp476\Assets\Code\AI\Pathfinding\PathfindingAgent.cs" Line="362" Column="8" />
+      <File FileName="C:\Users\John\Desktop\Comp476\Assets\Code\Player\Flashlight.cs" Line="42" Column="36" />
+      <File FileName="C:\Users\John\Desktop\Comp476\Assets\Code\Player\PlayerController.cs" Line="48" Column="21" />
+      <File FileName="C:\Users\John\Desktop\Comp476\Assets\Code\WinGame.cs" Line="22" Column="1" />
+      <File FileName="C:\Users\John\Desktop\Comp476\Assets\Code\Environment\MovingWall.cs" Line="102" Column="24" />
+      <File FileName="C:\Users\John\Desktop\Comp476\Assets\Code\Traps\Ghost.cs" Line="48" Column="53" />
+      <File FileName="C:\Users\John\Desktop\Comp476\Assets\Code\Traps\SlowingMud.cs" Line="21" Column="5" />
+      <File FileName="C:\Users\John\Desktop\Comp476\Assets\Code\Traps\SnapTrap.cs" Line="16" Column="21" />
+      <File FileName="C:\Users\John\Desktop\Comp476\Assets\Code\Traps\Trampoline.cs" Line="36" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
